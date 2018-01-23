@@ -4,6 +4,7 @@ import com.cainiao.transport.channel.SChannel;
 import com.cainiao.transport.channel.SFutureListener;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelFutureListener;
+import io.netty.util.Attribute;
 import io.netty.util.AttributeKey;
 
 import java.net.SocketAddress;
@@ -12,6 +13,19 @@ import java.net.SocketAddress;
 public class NettyChannel implements SChannel {
     private static final AttributeKey<NettyChannel> NETTY_CHANNEL_KEY = AttributeKey.valueOf("netty.channel");
     private final Channel channel;
+
+    public static NettyChannel attachChannel(Channel channel) {
+        Attribute<NettyChannel> att = channel.attr(NETTY_CHANNEL_KEY);
+        NettyChannel nettyChannel = att.get();
+        if (nettyChannel == null) {
+            nettyChannel = new NettyChannel(channel);
+            NettyChannel nChannel1 = att.setIfAbsent(nettyChannel);
+            if (nChannel1 == null) {
+                nChannel1 = nettyChannel;
+            }
+        }
+        return nettyChannel;
+    }
 
     public NettyChannel(Channel channel) {
         this.channel = channel;
