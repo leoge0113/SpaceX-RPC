@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spacexrpc.iml" filepath="$PROJECT_DIR$/spacexrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" />
+    </modules>
+  </component>
+</project>

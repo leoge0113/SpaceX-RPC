@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spacexrpc-transport-api" />
+        <module name="spacexrpc-transport-netty" />
+        <module name="transport-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spacex-transport" target="1.7" />
+      <module name="spacexrpc" target="1.7" />
+      <module name="spacexrpc-transport" target="1.7" />
+      <module name="spacexrpc-transport-api" target="1.7" />
+      <module name="spacexrpc-transport-netty" target="1.8" />
+      <module name="transport-api" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
