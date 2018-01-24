@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c8340a2-ece6-46ed-b36b-89fcf01a6453" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannel.java" afterPath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_intellij_annotations_12_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_openhft_affinity_3_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_9_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/spacexrpc-common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/atomic/AtomicUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/atomic/UnsafeAtomicReferenceFieldUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/AbstractRejectedExecutionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/AffinityNamedThreadFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/BlockingProducersPolicyWithReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/CallerRunsPolicyWithReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/DiscardTaskPolicyWithReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/NamedThreadFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/RejectedRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/RejectedTaskPolicyWithReport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/AbstractEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/ConcurrentAutoTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/ConcurrentSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/NonBlockingHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/NonBlockingHashMapLong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/Dispatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/LoggingExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/MessageEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/TaskDispatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/TaskHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/WaitStrategyType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/AbstractConstant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Bytes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/ClassUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Constant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/ConstantPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/ExceptionUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/FastMethodAccessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Function.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Ints.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/JConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/JServiceLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/JvmTools.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Lists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/MD5Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Maps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/NetUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pow2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Preconditions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Proxies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Reflects.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Signal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/SpiMetadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/StackTraceUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/StringBuilderHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Strings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/SystemClock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/SystemPropertyUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/collection/ByteObjectHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/collection/ByteObjectMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/InternalForkJoinWorkerThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/InternalThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/InternalThreadLocal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/InternalThreadLocalMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/InternalThreadLocalRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/JUnsafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/UnsafeIntegerFieldUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/UnsafeLongFieldUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/UnsafeReferenceFieldUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/UnsafeUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/AbstractInternalLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/FormattingTuple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/InternalLogLevel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/InternalLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/InternalLoggerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/JdkLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/JdkLoggerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/MessageFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/Slf4JLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/Slf4JLoggerFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/internal/logging/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SChannelGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannelGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml" afterPath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" afterPath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -11,6 +106,7 @@
     <ignored path="$PROJECT_DIR$/spacexrpc-transport/target/" />
     <ignored path="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/target/" />
     <ignored path="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/target/" />
+    <ignored path="$PROJECT_DIR$/spacex-common/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,132 +116,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SChannel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SChannel.java">
+      <file leaf-file-name="Pow2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pow2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="108" column="26" lean-forward="false" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NettyChannel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannel.java">
+      <file leaf-file-name="Signal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Signal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallerRunsPolicyWithReport.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/CallerRunsPolicyWithReport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageEvent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/MessageEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomicUpdater.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/atomic/AtomicUpdater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1279#1280#0" expanded="true" />
-                <element signature="e#1320#1321#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1482#1483#0" expanded="true" />
-                <element signature="e#1527#1528#0" expanded="true" />
-                <element signature="e#1585#1586#0" expanded="true" />
-                <element signature="e#1631#1632#0" expanded="true" />
-                <element signature="e#1680#1681#0" expanded="true" />
-                <element signature="e#1723#1724#0" expanded="true" />
-                <element signature="e#1779#1780#0" expanded="true" />
-                <element signature="e#1809#1810#0" expanded="true" />
-                <element signature="e#1858#1859#0" expanded="true" />
-                <element signature="e#1910#1911#0" expanded="true" />
-                <element signature="e#1973#1974#0" expanded="true" />
-                <element signature="e#2027#2028#0" expanded="true" />
-                <element signature="e#3379#3380#0" expanded="true" />
-                <element signature="e#3425#3426#0" expanded="true" />
-                <element signature="e#3471#3472#0" expanded="true" />
-                <element signature="e#3512#3513#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChannelOutboundInvoker.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+      <file leaf-file-name="JConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/JConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="269" column="19" lean-forward="false" selection-start-line="269" selection-start-column="19" selection-end-line="269" selection-end-column="19" />
+            <state relative-caret-position="405">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChannelPipeline.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelPipeline.java">
+      <file leaf-file-name="NettyChannelGroup.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannelGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1168#1357#0" expanded="true" />
+                <element signature="e#1356#1357#0" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocal.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ThreadLocal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="609" column="20" lean-forward="false" selection-start-line="609" selection-start-column="20" selection-end-line="609" selection-end-column="20" />
+              <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChannelPromise.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelPromise.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChannelFutureListener.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelFutureListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-              <folding>
-                <element signature="e#2076#2296#0" expanded="true" />
-                <element signature="e#2295#2296#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChannelFuture.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelFuture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="173" column="42" lean-forward="true" selection-start-line="173" selection-start-column="42" selection-end-line="173" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericFutureListener.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.19.Final/netty-common-4.1.19.Final-sources.jar!/io/netty/util/concurrent/GenericFutureListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Channel.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/Channel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="76" column="56" lean-forward="false" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SFutureListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SFutureListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="511">
+              <caret line="85" column="21" lean-forward="true" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -166,6 +239,7 @@
       <find>Jupiter</find>
       <find>netty</find>
       <find>netty-</find>
+      <find>common</find>
     </findStrings>
     <replaceStrings>
       <replace>spacex</replace>
@@ -194,6 +268,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml" />
         <option value="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannel.java" />
+        <option value="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SChannelGroup.java" />
+        <option value="$PROJECT_DIR$/spacex-common/pom.xml" />
+        <option value="$PROJECT_DIR$/spacex-common/src/main/java/common/concurrent/disruptor/MessageEvent.java" />
+        <option value="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/MessageEvent.java" />
+        <option value="$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/atomic/AtomicUpdater.java" />
+        <option value="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannelGroup.java" />
       </list>
     </option>
   </component>
@@ -210,10 +290,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="321" />
-    <option name="y" value="203" />
-    <option name="width" value="1400" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-218" />
+    <option name="y" value="5" />
+    <option name="width" value="1579" />
     <option name="height" value="913" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -243,57 +323,6 @@
               <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
               <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="transport" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacexrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport" type="462c0819:PsiDirectoryNode" />
-              <item name="spacexrpc-transport-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="transport" type="462c0819:PsiDirectoryNode" />
-              <item name="channel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spacexrpc" type="b2602c69:ProjectViewProjectNode" />
@@ -363,12 +392,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.cainiao.transport.channel" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lge\Documents\spacexrpc\spacex-common\src\main\java" />
       <recent name="C:\Users\lge\Documents\spacexrpc\spacexrpc-transport\spacexrpc-transport-api\src\main\java" />
     </key>
   </component>
@@ -477,15 +508,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516690673085</updated>
-      <workItem from="1516690683316" duration="12910000" />
+      <workItem from="1516690683316" duration="21963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12910000" />
+    <option name="totallyTimeSpent" value="21963000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1014" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1014" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -593,14 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="68" column="21" lean-forward="false" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.19.Final/netty-common-4.1.19.Final-sources.jar!/io/netty/util/concurrent/EventExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -613,14 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="108" column="26" lean-forward="false" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SFutureListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -655,7 +670,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.19.Final/netty-transport-4.1.19.Final-sources.jar!/io/netty/channel/ChannelPromise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -684,10 +699,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SFutureListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/src/main/java/com/cainiao/transport/channel/SChannelGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="225">
+          <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1043#1044#0" expanded="true" />
@@ -716,6 +749,150 @@
             <element signature="e#3425#3426#0" expanded="true" />
             <element signature="e#3471#3472#0" expanded="true" />
             <element signature="e#3512#3513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-403">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/spacexrpc-common.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/collection/NonBlockingHashMapLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/NamedThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/StackTraceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/WaitStrategyType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Signal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/CallerRunsPolicyWithReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/concurrent/disruptor/MessageEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/atomic/AtomicUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacex-common/src/main/java/com/cainiao/common/util/JConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="85" column="21" lean-forward="true" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/src/main/java/com/cainiao/transport/netty/channel/NettyChannelGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1168#1357#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
           </folding>
         </state>
       </provider>

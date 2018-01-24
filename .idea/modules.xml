@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spacexrpc.iml" filepath="$PROJECT_DIR$/spacexrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacex-common/spacexrpc-common.iml" filepath="$PROJECT_DIR$/spacex-common/spacexrpc-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" />
     </modules>

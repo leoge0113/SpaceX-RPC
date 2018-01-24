@@ -79,5 +79,10 @@
             <!-- https://github.com/trustin/os-maven-plugin -->
             <classifier>osx-x86_64</classifier>
         </dependency>
+        <dependency>
+            <groupId>com.cainiao</groupId>
+            <artifactId>spacexrpc-common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 </project>

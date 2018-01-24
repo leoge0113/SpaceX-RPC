@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spacex-common" />
+        <module name="spacexrpc-common" />
         <module name="spacexrpc-transport-api" />
         <module name="spacexrpc-transport-netty" />
         <module name="transport-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spacex-common" target="1.7" />
       <module name="spacex-transport" target="1.7" />
       <module name="spacexrpc" target="1.7" />
+      <module name="spacexrpc-common" target="1.7" />
       <module name="spacexrpc-transport" target="1.7" />
       <module name="spacexrpc-transport-api" target="1.7" />
       <module name="spacexrpc-transport-netty" target="1.8" />
