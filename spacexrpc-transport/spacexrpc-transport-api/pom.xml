@@ -11,6 +11,13 @@
 
     <artifactId>spacexrpc-transport-api</artifactId>
     <version>1.0.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.cainiao</groupId>
+            <artifactId>spacexrpc-common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
