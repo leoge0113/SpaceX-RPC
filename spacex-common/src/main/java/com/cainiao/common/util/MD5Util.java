@@ -22,10 +22,10 @@ import java.security.NoSuchAlgorithmException;
 /**
  * MD5转换工具
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class MD5Util {
 

@@ -29,10 +29,10 @@ import static org.jupiter.common.util.StackTraceUtil.stackTrace;
 /**
  * For the {@link Unsafe} access.
  *
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public final class JUnsafe {
 

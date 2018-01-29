@@ -17,10 +17,10 @@
 package com.cainiao.common.util.internal;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public class InternalThread extends Thread {
 

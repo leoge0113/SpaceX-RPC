@@ -20,10 +20,10 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinWorkerThread;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public class InternalForkJoinWorkerThread extends ForkJoinWorkerThread {
 

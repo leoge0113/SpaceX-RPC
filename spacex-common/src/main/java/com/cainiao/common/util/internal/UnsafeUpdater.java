@@ -19,10 +19,10 @@ package com.cainiao.common.util.internal;
 import org.jupiter.common.util.ExceptionUtil;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public class UnsafeUpdater {
 

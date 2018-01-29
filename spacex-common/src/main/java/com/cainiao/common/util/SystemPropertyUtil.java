@@ -29,10 +29,10 @@ import static org.jupiter.common.util.StackTraceUtil.stackTrace;
 /**
  * A collection of utility methods to retrieve and parse the values of the Java system properties.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class SystemPropertyUtil {
 

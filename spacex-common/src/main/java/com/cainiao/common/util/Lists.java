@@ -25,10 +25,10 @@ import static org.jupiter.common.util.Preconditions.checkNotNull;
 /**
  * Static utility methods pertaining to {@link List} instances.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class Lists {
 

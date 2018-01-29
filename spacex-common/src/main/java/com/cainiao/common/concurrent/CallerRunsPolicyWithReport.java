@@ -21,10 +21,10 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 使用Caller-Runs(调用者执行)饱和策略, 不抛弃任务, 也不抛出异常, 而是将当前任务回退到调用者去执行, 从而降低新任务的流量.
  *
- * jupiter
- * org.jupiter.common.concurrent
+
+  common.concurrent
  *
- * @author jiachun.fjc
+
  */
 public class CallerRunsPolicyWithReport extends AbstractRejectedExecutionHandler {
 

@@ -19,10 +19,10 @@ package com.cainiao.common.util;
 /**
  * Determines an output value based on an input value.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public interface Function<F, T> {
 

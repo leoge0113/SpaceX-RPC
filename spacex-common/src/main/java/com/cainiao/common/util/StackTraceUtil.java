@@ -21,10 +21,10 @@ import java.io.IOException;
 import java.io.PrintStream;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class StackTraceUtil {
 

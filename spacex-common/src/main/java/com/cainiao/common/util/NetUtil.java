@@ -23,10 +23,10 @@ import java.util.Enumeration;
 import java.util.regex.Pattern;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class NetUtil {
 

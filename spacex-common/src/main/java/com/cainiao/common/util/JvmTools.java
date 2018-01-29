@@ -27,10 +27,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class JvmTools {
 

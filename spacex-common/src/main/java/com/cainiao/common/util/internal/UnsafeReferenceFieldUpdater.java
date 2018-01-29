@@ -21,10 +21,10 @@ import sun.misc.Unsafe;
 import java.lang.reflect.Field;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 @SuppressWarnings("unchecked")
 public final class UnsafeReferenceFieldUpdater<U, W> {

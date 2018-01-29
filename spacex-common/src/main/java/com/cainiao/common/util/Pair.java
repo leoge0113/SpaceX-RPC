@@ -17,10 +17,10 @@
 package com.cainiao.common.util;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class Pair<First, Second> {
 

@@ -22,10 +22,10 @@ import org.jupiter.common.util.internal.UnsafeUpdater;
 import sun.misc.Unsafe;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class ExceptionUtil {
 

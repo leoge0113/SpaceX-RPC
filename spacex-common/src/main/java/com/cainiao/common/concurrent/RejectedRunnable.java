@@ -17,10 +17,10 @@
 package com.cainiao.common.concurrent;
 
 /**
- * jupiter
- * org.jupiter.common.concurrent
+
+  common.concurrent
  *
- * @author jiachun.fjc
+
  */
 public interface RejectedRunnable extends Runnable {
 

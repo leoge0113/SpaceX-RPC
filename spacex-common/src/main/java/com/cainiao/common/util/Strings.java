@@ -23,10 +23,10 @@ import java.util.List;
  * Static utility methods pertaining to {@code String} or {@code CharSequence}
  * instances.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class Strings {
 

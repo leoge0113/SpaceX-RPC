@@ -19,10 +19,10 @@ package com.cainiao.common.util.internal;
 import static org.jupiter.common.util.Preconditions.checkNotNull;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public class InternalThreadLocalRunnable implements Runnable {
 

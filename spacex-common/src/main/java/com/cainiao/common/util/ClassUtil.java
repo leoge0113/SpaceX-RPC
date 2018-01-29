@@ -23,10 +23,10 @@ import static org.jupiter.common.util.StackTraceUtil.*;
 import static org.jupiter.common.util.StackTraceUtil.stackTrace;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class ClassUtil {
 

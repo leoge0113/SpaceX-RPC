@@ -65,5 +65,10 @@
             <artifactId>jmh-generator-annprocess</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.jupiter-rpc</groupId>
+            <artifactId>jupiter-all</artifactId>
+            <version>1.2.11</version>
+        </dependency>
     </dependencies>
 </project>

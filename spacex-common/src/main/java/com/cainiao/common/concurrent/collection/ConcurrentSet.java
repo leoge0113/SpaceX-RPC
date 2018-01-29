@@ -24,10 +24,10 @@ import java.util.Iterator;
 import java.util.concurrent.ConcurrentMap;
 
 /**
- * jupiter
- * org.jupiter.common.concurrent
+
+  common.concurrent
  *
- * @author jiachun.fjc
+
  */
 public final class ConcurrentSet<E> extends AbstractSet<E> implements Serializable {
 

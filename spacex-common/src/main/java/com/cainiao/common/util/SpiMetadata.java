@@ -19,10 +19,10 @@ package com.cainiao.common.util;
 import java.lang.annotation.*;
 
 /**
- * Jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

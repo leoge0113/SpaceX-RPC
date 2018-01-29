@@ -17,6 +17,16 @@
             <artifactId>spacexrpc-common</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.jupiter-rpc</groupId>
+            <artifactId>jupiter-common</artifactId>
+            <version>1.2.11</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jupiter-rpc</groupId>
+            <artifactId>jupiter-common</artifactId>
+            <version>1.2.11</version>
+        </dependency>
     </dependencies>
 
 

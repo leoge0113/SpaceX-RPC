@@ -21,12 +21,12 @@ import java.nio.charset.UnsupportedCharsetException;
 import java.util.Formatter;
 
 /**
- * Jupiter constants.
+   constants.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class JConstants {
 

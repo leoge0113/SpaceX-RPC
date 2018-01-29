@@ -23,10 +23,10 @@ import java.util.IdentityHashMap;
 import java.util.Set;
 
 /**
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public class InternalThreadLocal<V> {
 

@@ -34,10 +34,10 @@ import static org.jupiter.common.util.Preconditions.checkNotNull;
  *
  * If no strategies are provided AffinityStrategies.ANY is used.
  *
- * Jupiter
- * org.jupiter.common.concurrent
+
+  common.concurrent
  *
- * @author jiachun.fjc
+
  */
 public class AffinityNamedThreadFactory implements ThreadFactory {
 

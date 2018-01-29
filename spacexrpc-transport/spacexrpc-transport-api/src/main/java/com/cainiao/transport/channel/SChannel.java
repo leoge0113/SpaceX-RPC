@@ -22,10 +22,10 @@ import java.net.SocketAddress;
  * A nexus to a network socket or a component which is capable of I/O
  * operations such as read, write.
  * <p>
- * jupiter
- * org.jupiter.transport.channel
+
+  transport.channel
  *
- * @author jiachun.fjc
+
  */
 public interface SChannel {
 

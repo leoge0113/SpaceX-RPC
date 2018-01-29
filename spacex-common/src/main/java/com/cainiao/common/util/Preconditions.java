@@ -20,10 +20,10 @@ package com.cainiao.common.util;
  * Simple static methods to be called at the start of your own methods to verify
  * correct arguments and state.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class Preconditions {
 

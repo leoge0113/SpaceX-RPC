@@ -22,10 +22,10 @@ import static org.jupiter.common.util.Preconditions.checkArgument;
 /**
  * Static utility methods pertaining to {@code byte} primitives.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class Bytes {
 

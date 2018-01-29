@@ -19,10 +19,10 @@ package com.cainiao.common.util;
 /**
  * Power of 2 utility functions.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class Pow2 {
 

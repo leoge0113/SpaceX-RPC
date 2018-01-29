@@ -23,10 +23,10 @@ import java.util.concurrent.atomic.AtomicReferenceFieldUpdater;
 /**
  * A tool utility that enables atomic updates to designated {@code volatile} fields of designated classes.
  *
- * jupiter
- * org.jupiter.common.concurrent.atomic
+
+  common.concurrent.atomic
  *
- * @author jiachun.fjc
+
  */
 public final class AtomicUpdater {
 

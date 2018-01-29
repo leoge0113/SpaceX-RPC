@@ -27,10 +27,10 @@ import java.lang.reflect.Proxy;
 import static org.jupiter.common.util.Preconditions.checkArgument;
 
 /**
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public enum Proxies {
     JDK_PROXY(new ProxyDelegate() {

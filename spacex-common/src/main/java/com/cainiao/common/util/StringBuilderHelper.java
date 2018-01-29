@@ -23,10 +23,10 @@ import org.jupiter.common.util.internal.*;
  *
  * 注意: 不要在相同的线程中嵌套使用, 太大的StringBuilder也请不要使用这个类, 会导致hold超大块内存一直不释放.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class StringBuilderHelper {
 

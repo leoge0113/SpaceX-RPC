@@ -28,10 +28,10 @@ import static org.jupiter.common.util.Preconditions.checkNotNull;
 /**
  * A simple service-provider loading facility (SPI).
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public final class JServiceLoader<S> implements Iterable<S> {
 

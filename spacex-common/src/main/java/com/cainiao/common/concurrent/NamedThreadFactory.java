@@ -28,10 +28,10 @@ import static org.jupiter.common.util.Preconditions.checkNotNull;
 /**
  * Named thread factory.
  *
- * jupiter
- * org.jupiter.common.util
+
+  common.util
  *
- * @author jiachun.fjc
+
  */
 public class NamedThreadFactory implements ThreadFactory {
 

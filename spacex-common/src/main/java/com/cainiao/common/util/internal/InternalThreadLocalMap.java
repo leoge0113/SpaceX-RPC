@@ -55,10 +55,10 @@ class RhsPadding extends Fields {
 /**
  * 参考了 <a href="https://github.com/netty/netty">Netty</a> FastThreadLocal 的设计, 有一些改动, 更适合jupiter使用
  *
- * jupiter
- * org.jupiter.common.util.internal
+
+  common.util.internal
  *
- * @author jiachun.fjc
+
  */
 public final class InternalThreadLocalMap extends RhsPadding {
 
