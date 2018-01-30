@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cainiao:spacexrpc-common:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cainiao/spacexrpc-common/unknown/spacexrpc-common-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cainiao/spacexrpc-common/unknown/spacexrpc-common-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cainiao/spacexrpc-common/unknown/spacexrpc-common-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

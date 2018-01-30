@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spacexrpc-common" />
+        <module name="spacexrpc-rpc" />
         <module name="spacexrpc-transport-api" />
         <module name="spacexrpc-transport-netty" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="spacexrpc" target="1.7" />
       <module name="spacexrpc-common" target="1.7" />
+      <module name="spacexrpc-rpc" target="1.7" />
       <module name="spacexrpc-transport" target="1.7" />
       <module name="spacexrpc-transport-api" target="1.7" />
       <module name="spacexrpc-transport-netty" target="1.8" />

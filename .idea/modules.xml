@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spacexrpc.iml" filepath="$PROJECT_DIR$/spacexrpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacex-common/spacexrpc-common.iml" filepath="$PROJECT_DIR$/spacex-common/spacexrpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacexrpc-rpc/spacexrpc-rpc.iml" filepath="$PROJECT_DIR$/spacexrpc-rpc/spacexrpc-rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-api/spacexrpc-transport-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" filepath="$PROJECT_DIR$/spacexrpc-transport/spacexrpc-transport-netty/spacexrpc-transport-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacexrpcrpc.iml" filepath="$PROJECT_DIR$/spacexrpcrpc.iml" />
     </modules>
   </component>
 </project>

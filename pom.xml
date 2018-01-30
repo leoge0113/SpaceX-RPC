@@ -38,6 +38,7 @@
     <modules>
         <module>spacexrpc-transport</module>
         <module>spacex-common</module>
+        <module>spacexrpc-rpc</module>
     </modules>
 
     <properties>
