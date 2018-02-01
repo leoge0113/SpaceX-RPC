@@ -1,5 +1,5 @@
 package com.cainiao.spacexrpc.rpc;
-
+/*
 import java.util.concurrent.Executor;
 
 public interface SServer {
@@ -66,3 +66,4 @@ public interface SServer {
 
     void shutdownGracefully();
 }
+*/
